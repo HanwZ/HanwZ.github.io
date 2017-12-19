@@ -1,14 +1,13 @@
 ---
 layout:       post
-title:        "记录偶然听到的一段话"
-subtitle:     ""
-date:         2017-12-18 22:30:00
+title:        "偶然听到的一段话"
+subtitle:     "关于钻石与爱情"
+date:         2017-12-19 23:30:00
 author:       "Han"
 header-img:   "img/in-post/post-bg-pic/post-bg-diamond.jpg"
 header-mask:  0.3
-tags：
-	-杂记
-
+tags:
+    - 杂记
 ---
 
 中午睡觉的时候习惯听点东西。最近在听回到2049.昨天听的一期关于钻石的节目，睡的迷迷糊糊的时候听到了总结的一段话，当时大脑并没有清楚的反应听到了些什么，只是感觉很感动。
